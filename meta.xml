@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>--- ThemeWii ---</name>
+	<version>1.1 beta</version>
+        <release_date>201202141500</release_date>
+	<coder>Scooby74029</coder>
+	<short_description>Wii Theme Installer. </short_description>
+	<long_description>Wii System Menu Theme Installer.
+Supports SD,USB, and Neek Nands(not yet started)
+Gui is from Mighty Channels MOD and I am no where done with changes and fixes.
+This is a preview of what i am working on.</long_description>
+	
+	<arguments>
+		 <!--<arg>--ios=58</arg> -->
+		
+		 <-- <arg>--device=1</arg> --> 
+
+	</arguments>
+</app>
